@@ -1,14 +1,20 @@
 # SQL-Capstone
+
 ## Airline and Northwind Database
 
 **🗄️ SQL Capstone Project**
+
 📌 **Project Overview**
 
 This project focuses on analyzing two widely used relational databases — Northwind DB and Airline DB — to solve real-world business problems using SQL. The capstone demonstrates expertise in writing complex SQL queries for data extraction, transformation, and analysis.
 
-### Northwind DB: Contains sales data for Northwind Trades, including products, customers, suppliers, orders, and employees.
+### Northwind DB: 
 
-### Airline DB: Contains airline-related data, including transactions, tickets, flights, airports, and flight schedules.
+Contains sales data for Northwind Trades, including products, customers, suppliers, orders, and employees.
+
+### Airline DB:
+
+Contains airline-related data, including transactions, tickets, flights, airports, and flight schedules.
 
 The objective of this project was to perform data analysis and reporting by writing SQL queries to answer given business scenarios.
 
